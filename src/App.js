@@ -43,7 +43,7 @@ const Weatherdetails=({icon,temp,city,country,latitude,longitude,humidity,wind})
       <div className="row">
         <div className="col-lg-6">
           <ul className="list-inline">
-          <li>lattitude</li>
+          <li>latitude</li>
           <li>{latitude}</li>
           </ul>
           </div>
